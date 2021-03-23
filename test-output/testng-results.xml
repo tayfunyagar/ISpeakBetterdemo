@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-03-20T12:09:05 EDT" name="Default suite" finished-at="2021-03-20T12:09:46 EDT" duration-ms="40386">
+    <groups>
+    </groups>
+    <test started-at="2021-03-20T12:09:05 EDT" name="Default test" finished-at="2021-03-20T12:09:46 EDT" duration-ms="40386">
+      <class name="com.qa.ispeakBetter.test.LoginParallelTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.qa.ispeakBetter.test.LoginParallelTest@2873d672]" started-at="2021-03-20T12:09:07 EDT" name="setUp" finished-at="2021-03-20T12:09:20 EDT" duration-ms="12626" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="createContactsTest(java.lang.String, java.lang.String)[pri:2, instance:com.qa.ispeakBetter.test.LoginParallelTest@2873d672]" started-at="2021-03-20T12:09:20 EDT" name="createContactsTest" data-provider="getCredentialsTestData" finished-at="2021-03-20T12:09:22 EDT" duration-ms="1758" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[tayfunyagar@hotmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Eymen972]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createContactsTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.ispeakBetter.test.LoginParallelTest@2873d672]" started-at="2021-03-20T12:09:22 EDT" name="tearDown" finished-at="2021-03-20T12:09:23 EDT" duration-ms="1046" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.qa.ispeakBetter.test.LoginParallelTest@2873d672]" started-at="2021-03-20T12:09:23 EDT" name="setUp" finished-at="2021-03-20T12:09:32 EDT" duration-ms="9409" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="createContactsTest(java.lang.String, java.lang.String)[pri:2, instance:com.qa.ispeakBetter.test.LoginParallelTest@2873d672]" started-at="2021-03-20T12:09:32 EDT" name="createContactsTest" data-provider="getCredentialsTestData" finished-at="2021-03-20T12:09:33 EDT" duration-ms="954" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[john@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Test1234]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createContactsTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.ispeakBetter.test.LoginParallelTest@2873d672]" started-at="2021-03-20T12:09:33 EDT" name="tearDown" finished-at="2021-03-20T12:09:34 EDT" duration-ms="965" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.qa.ispeakBetter.test.LoginParallelTest@2873d672]" started-at="2021-03-20T12:09:34 EDT" name="setUp" finished-at="2021-03-20T12:09:44 EDT" duration-ms="9594" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="createContactsTest(java.lang.String, java.lang.String)[pri:2, instance:com.qa.ispeakBetter.test.LoginParallelTest@2873d672]" started-at="2021-03-20T12:09:44 EDT" name="createContactsTest" data-provider="getCredentialsTestData" finished-at="2021-03-20T12:09:45 EDT" duration-ms="1000" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ilhan@yahoo.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Test8789]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createContactsTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.ispeakBetter.test.LoginParallelTest@2873d672]" started-at="2021-03-20T12:09:45 EDT" name="tearDown" finished-at="2021-03-20T12:09:46 EDT" duration-ms="904" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.ispeakBetter.test.LoginParallelTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
